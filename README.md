@@ -9,11 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Built with](#built-with)
 - [Author](#author)
 
-# Overview
-
 # Screenshot
 
-![](./screenshot.png)
+![Screenshot](/screenshoot.png)
 
 # Links
 
@@ -28,4 +26,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 # Author
 
 - Website - [Kyle Mettille](https://ttexpie.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ttexpie)
+- Frontend Mentor - [@ttexpie](https://www.frontendmentor.io/profile/ttexpie)
